@@ -1,0 +1,42 @@
+.newObjAll {
+    text-decoration: none;
+    height: min-content;
+    width: max-content;
+    text-align: left;
+    margin-left: -40px;
+    margin-top: 30px;
+    padding: 6px 10px;
+    background-color: lightpink;
+    border: 2px solid green;
+    list-style-type: none;
+}
+
+.deleteButton {
+    height: max-content;
+    width: max-content;
+    text-align: end;
+    margin-left: 50px;
+}
+
+.deleteAll {
+    margin-top: 5px;
+    width: max-content;
+}
+
+.line_through_newObj {
+    text-decoration: line-through;
+    color: red;
+}
+
+.header {
+    margin-left: 250px;
+    border: 5px solid gray;
+    width: max-content;
+    padding: 20px 30px;
+    background-color: lightseagreen;
+}
+
+.sel_all {
+    width: max-content;
+    margin-top: 30px;
+}
